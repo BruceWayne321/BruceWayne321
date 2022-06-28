@@ -2,7 +2,7 @@
 
 - 👀 I’m a student trying to figure my interests our
 - 🌱 I’m trying to explore different stuffs
-- :link: This is my [Instagram](https://instagram.com/)
+- :link:
 
 
 <!---
