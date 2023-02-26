@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bruce
 
-- 👀 I’m a student trying to figure my interests our
+- 👀 I’m a student trying to figure my interests
 - 🌱 I’m trying to explore different stuffs
 - :link:
 
